@@ -1,0 +1,2 @@
+var user Input = prompt(Enter your year of birth);
+console.log (userInput)
